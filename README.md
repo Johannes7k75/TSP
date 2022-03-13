@@ -17,7 +17,7 @@ selbst mithilfe von Computern finden können.
 [![Beispiel](https://1.bp.blogspot.com/-VaXoFPGLCWI/TkCaru0YEJI/AAAAAAAAAH8/kb4MrZvZ-CE/s1600/TSP1.jpg)](https://computationaltales.blogspot.com/2011/08/traveling-salesmans-problem-part-6-of.html)
 -->  
 Wir behandeln das "Travelling Salesmann Problem" hier, damit wir verstehen, dass uns das Problem auch betrifft und
-wir nie den 100 % -ig schnellsten wegnehmen können, weil wir und auch Computer zum berechnen zu lange brauchen würden.
+wir nie den 100 % schnellsten wegnehmen können, weil wir und auch Computer zum berechnen zu lange brauchen würden.
 
 #### Was hat das mit Logistik für einen Paketdienstleister zu tun?
 Da wir viele Ziele haben, die wir versuchen müssen in kurzer Zeit zu besuchen und Pakete abzugeben ist das ein direktes Beispiel (das Pakte austragen)
