@@ -28,7 +28,9 @@ und den schnellsten/kürzesten weg dazu nehmen sollen.
   <img src="https://1.bp.blogspot.com/-VaXoFPGLCWI/TkCaru0YEJI/AAAAAAAAAH8/kb4MrZvZ-CE/s1600/TSP1.jpg" />
   <p align="center">Bild 1</p>
 </p>
-Hier ein Beispiel der der rote weg ist der optimallste bzw. schnellste weg.
+Hier ein Beispiel der der rote weg ist der optimallste bzw. schnellste weg.  
+Wie man sieht wird jeder Punkt außer der Anfang nur einmal besucht und ist durch den kreis auch der kürzeste.  
+Dies wird jedoch bei viel mehr Punkten viel unübersichtlicher.
 
 
 
